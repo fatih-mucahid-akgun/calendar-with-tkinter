@@ -13,4 +13,4 @@ Python offers multiple options for developing a GUI (Graphical User Interface). 
 
 
 
-You can access this study at the [link.](https://www.geeksforgeeks.org/python-gui-calendar-using-tkinter/)
+You can access this study at the [exercise.](https://www.geeksforgeeks.org/python-gui-calendar-using-tkinter/)
