@@ -1,4 +1,4 @@
-Bu çalışma GeeksforGeeks web sitesinden alınmıştır.
+This excercise was taken from the GeeksforGeeks website.
 
 Python | GUI Calendar using Tkinter
 Difficulty Level : Easy
