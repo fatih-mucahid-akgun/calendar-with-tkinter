@@ -8,9 +8,7 @@ Python offers multiple options for developing a GUI (Graphical User Interface). 
 - Add any number of widgets to the main window.
 - Apply the event Trigger on the widgets.
 ## The GUI would look like below:
-
-
-
-
+![](https://media.geeksforgeeks.org/wp-content/uploads/20210116124018/Screenshot239.png)
+![](https://media.geeksforgeeks.org/wp-content/uploads/20210116124001/Screenshot238-263x300.png)
 
 You can access this study at the [exercise.](https://www.geeksforgeeks.org/python-gui-calendar-using-tkinter/)
